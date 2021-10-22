@@ -1,8 +1,8 @@
 const linksSocialMedia = {
   github: 'italoengdev',
-  youtube: 'italosaraiva',
-  facebook: 'italosaraiva',
-  instagram: 'italosaraiva',
+  youtube: 'UCfmJbrEkZuMCYk0QC0wtvgA',
+  facebook: 'italo.saraivagoncalves',
+  instagram: 'italosaraiva.dev',
   twitter: 'italo_sg'
 }
 //DOM document object model
